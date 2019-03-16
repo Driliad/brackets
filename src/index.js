@@ -16,3 +16,6 @@ const check = (str, bracketsConfig) => {
 
    return false;
 };
+
+module.exports = check;
+
